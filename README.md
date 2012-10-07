@@ -1,11 +1,10 @@
-========
-Octogit
-========
+# Notification box Jetpack API
 
-This repository has been created with Octogit.
 
-.. image:: http://myusuf3.github.com/octogit/assets/img/readme_image.png
+Example:
+	var nb = require('notificationbox/notificationbox');
 
-Author
-======
-Mahdi Yusuf (@myusuf3)
+	nb.notify('foo!', null, 2000);
+	// or something...
+
+More to come.
