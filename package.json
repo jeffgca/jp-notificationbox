@@ -1,0 +1,7 @@
+{
+    "name": "notificationbox",
+    "description": "Do notifications using the notificationbox api.",
+    "author": "Jeff Griffiths <jeff@canuckistani.ca>",
+    "version": "0.1",
+    "dependencies": ["api-utils"]
+}
